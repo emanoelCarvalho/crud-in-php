@@ -15,7 +15,7 @@ require "auth/auth.php";
             const buttonLogout = document.querySelector('#button-logout');
 
             buttonCrud.addEventListener('click', () => {
-                window.location.href = '/src//crud-library/add.php';
+                window.location.href = '/src/crud-library/add.php';
             });
 
             buttonLogout.addEventListener('click', () => {
