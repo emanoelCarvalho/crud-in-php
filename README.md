@@ -65,8 +65,4 @@ Este projeto é distribuído sob a licença [MIT].
 
 Divirta-se explorando e aprimorando suas habilidades com este projeto CRUD em PHP e CSV! Se você tiver alguma dúvida ou precisar de assistência, sinta-se à vontade para entrar em contato comigo.
 ```
-
-Substitua `https://crud-in-php` pelo link do seu repositório onde o projeto está hospedado.
-
-
 Espero que este README seja útil para você e que ajude outros desenvolvedores a entenderem o seu projeto. Se você tiver alguma dúvida ou precisar de mais ajuda, fique à vontade para perguntar!
