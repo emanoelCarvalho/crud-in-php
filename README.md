@@ -50,6 +50,7 @@ php -S localhost:8000
 - `index.php`: A página inicial que exibe os registros e permite a realização das operações CRUD.
 - `add.php`: Página para adicionar novos registros.
 - `update.php`: Página para editar registros existentes.
+- `delete.php`: Página para remover registros existentes.
 - `users.csv`: Arquivo CSV para armazenar os dados.
 - `anime.csv`: Arquivo CSV para armazenar os dados.
 
@@ -65,4 +66,3 @@ Este projeto é distribuído sob a licença [MIT].
 
 Divirta-se explorando e aprimorando suas habilidades com este projeto CRUD em PHP e CSV! Se você tiver alguma dúvida ou precisar de assistência, sinta-se à vontade para entrar em contato comigo.
 ```
-Espero que este README seja útil para você e que ajude outros desenvolvedores a entenderem o seu projeto. Se você tiver alguma dúvida ou precisar de mais ajuda, fique à vontade para perguntar!
