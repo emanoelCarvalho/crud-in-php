@@ -65,4 +65,3 @@ Este projeto é distribuído sob a licença [MIT].
 ---
 
 Divirta-se explorando e aprimorando suas habilidades com este projeto CRUD em PHP e CSV! Se você tiver alguma dúvida ou precisar de assistência, sinta-se à vontade para entrar em contato comigo.
-```
