@@ -60,7 +60,7 @@ Fique à vontade para contribuir para este projeto através de pull requests. Su
 
 ## Licença
 
-Este projeto é distribuído sob a licença [LICENSE].
+Este projeto é distribuído sob a licença `LISENCE`.
 
 ---
 
